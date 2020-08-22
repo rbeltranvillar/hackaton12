@@ -6,7 +6,7 @@
   body{
       display: flex;
       justify-content: center;
-      background-image: url(/images/fondo.jpg) ;
+      background-image: url(./images/fondo.jpg) ;
   }
   h2{
       margin-top: 2rem;
